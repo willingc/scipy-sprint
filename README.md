@@ -39,6 +39,6 @@
 - Links to issues for sprint
 
 ### Contributor recognition
-- Page in the documentation similar to [Cookiecutter PyCon](https://github.com/audreyr/cookiecutter/blob/master/docs/sprint-contributors.rst)
-- Celebrate merged PRs - cheer, clap, ...
-- 
+
+- Page in the documentation thanking contributors https://github.com/audreyr/cookiecutter/blob/master/docs/sprint-contributors.rst
+- Celebrate merged PRs (cheer, clap, ...)

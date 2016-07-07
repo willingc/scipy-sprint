@@ -12,8 +12,6 @@ sign. We'll be online from roughly 9:00am to 3:00pm CST.
 
 ## What is JupyterLab?
 
-[JupyterLab](http://jupyter.github.io/jupyterlab/)
-
 An extensible computational environment for Jupyter.
 
 **This is a very early pre-alpha developer preview and not suitable for
@@ -47,4 +45,5 @@ on your self-assigned level:
 ## Developer Resources
 
 - [JupyterLab Architecture Tutorial](http://jupyterlab-tutorial.readthedocs.io/en/latest/index.html)
-- [
+- [JupyterLab API Docs](http://jupyter.github.io/jupyterlab/)
+

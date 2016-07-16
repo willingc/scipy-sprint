@@ -1,0 +1,5 @@
+[project]
+name = jupyter-sprints
+
+[servers.ghpages]
+target = ghpages+https://willingc/scipy-sprint

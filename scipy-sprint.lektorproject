@@ -1,0 +1,5 @@
+[project]
+name = scipy-sprint
+
+[servers.ghpages]
+target = ghpages+https://willingc/scipy-sprint

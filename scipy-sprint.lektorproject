@@ -2,4 +2,4 @@
 name = scipy-sprint
 
 [servers.ghpages]
-target = ghpages+https://willingc/scipy-sprint
+target = ghpages://willingc/scipy-sprint
